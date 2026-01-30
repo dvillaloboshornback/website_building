@@ -1,8 +1,8 @@
 {
-  "hash": "801688eb4ad6808a3bbdac6d1e512649",
+  "hash": "0cfdbd36e8cb1e90fd711c4e1ddb6eb2",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"David Villalobos Hornback\"\nimage: \"files/jimi_hendrix.png\"\nabout:\n  template: jolla\n  links:\n    - icon: envelope\n      href: mailto:dvillaloboshornback@ucsd.edu\n    - icon: linkedin\n      href: https://www.linkedin.com/in/david-villalobos-hornback\n---\n\n# Big Heading\n\n## Smaller Heading\n\n### Even Smaller Heading\n\nRegular Text. If you want **bold** or *italics*.\n\n| Col1 | Col2 |\n|------|------|\n|      |      |\n|      |      |\n\n: ***2x2 Table***\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "markdown": "---\ntitle: \"David Villalobos Hornback (WORK IN PROGRESS)\"\nimage: \"files/jimi_hendrix.png\"\nabout:\n  template: jolla\n  links:\n    - icon: envelope\n      href: mailto:dvillaloboshornback@ucsd.edu\n    - icon: linkedin\n      href: https://www.linkedin.com/in/david-villalobos-hornback\n---\n\n# Big Heading\n\n## Smaller Heading\n\n### Even Smaller Heading\n\nRegular Text. If you want **bold** or *italics*.\n\n| Col1 | Col2 |\n|------|------|\n|      |      |\n|      |      |\n\n: ***2x2 Table***\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
