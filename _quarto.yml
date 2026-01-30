@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "David Villalobos Hornback"
+  title: "David Villalobos Hornback's Website"
   navbar: 
     left:
       - href: index.qmd
