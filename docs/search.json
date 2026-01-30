@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David Villalobos Hornback",
+    "objectID": "newtab.html",
+    "href": "newtab.html",
+    "title": "My new tab",
     "section": "",
-    "text": "Regular Text. If you want bold or italics.\n\n2x2 Table\n\n\nCol1\nCol2\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "My Super Awesome Resume",
-    "section": "",
-    "text": "Download PDF file.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#smaller-heading",
-    "href": "index.html#smaller-heading",
-    "title": "David Villalobos Hornback",
-    "section": "",
-    "text": "Regular Text. If you want bold or italics.\n\n2x2 Table\n\n\nCol1\nCol2\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "look at me, i did it!"
   },
   {
     "objectID": "projects.html",
@@ -26,6 +12,13 @@
     "title": "My Projects",
     "section": "",
     "text": "To be:Analysis of Politician’s Stock Trades\n\n\n\n\n\n\nDavid Villalobos Hornback\n\n\nJan 30, 2026\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Super Awesome Resume",
+    "section": "",
+    "text": "Download PDF file.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "projects/project_1/index.html",
@@ -40,5 +33,19 @@
     "title": "To be:Analysis of Politician’s Stock Trades",
     "section": "",
     "text": "Here is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Villalobos Hornback",
+    "section": "",
+    "text": "Regular Text. If you want bold or italics.\n\n2x2 Table\n\n\nCol1\nCol2\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#smaller-heading",
+    "href": "index.html#smaller-heading",
+    "title": "David Villalobos Hornback",
+    "section": "",
+    "text": "Regular Text. If you want bold or italics.\n\n2x2 Table\n\n\nCol1\nCol2\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]

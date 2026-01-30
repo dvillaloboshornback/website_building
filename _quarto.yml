@@ -12,6 +12,8 @@ website:
         text: Resume
       - href: projects.qmd  # <-- add this
         text: My Projects   # <-- add this
+      - href: newtab.qmd
+        text: newtabtitle
 format:
   html:
     theme:
