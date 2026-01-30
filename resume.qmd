@@ -1,0 +1,9 @@
+---
+title: "My Super Awesome Resume"
+---
+
+{{< pdf files/insert_resume_here.pdf width=100% height=800 >}}
+
+```{r}
+1 + 1
+```

@@ -1,0 +1,34 @@
+---
+title: "David Villalobos Hornback"
+image: "files/jimi_hendrix.png"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      href: mailto:dvillaloboshornback@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/david-villalobos-hornback
+---
+
+# Big Heading
+
+## Smaller Heading
+
+### Even Smaller Heading
+
+Regular Text. If you want **bold** or *italics*.
+
+| Col1 | Col2 |
+|------|------|
+|      |      |
+|      |      |
+
+: ***2x2 Table***
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
