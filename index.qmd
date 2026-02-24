@@ -1,13 +1,19 @@
 ---
-title: "David Villalobos Hornback (WORK IN PROGRESS)"
-image: "files/jimi_hendrix.png"
+title: "David Villalobos Hornback (Website WIP)"
+image: "files/Headshot-crop.png"
 about:
-  template: jolla
+  template: trestles
+  image-shape: rectangle
+  image-width: 7cm
+  
   links:
     - icon: envelope
       href: mailto:dvillaloboshornback@ucsd.edu
     - icon: linkedin
       href: https://www.linkedin.com/in/david-villalobos-hornback
+    - icon: git
+      href: https://github.com/dvillaloboshornback
+    
 ---
 
 # Big Heading
