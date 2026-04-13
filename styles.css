@@ -1,6 +1,13 @@
 /* css styles */
 
-.about-image {
+img.about-image {
   border: none !important;
   box-shadow: none !important;
+  outline: none !important;
+}
+
+.about-entity img {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
 }
