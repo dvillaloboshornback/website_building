@@ -1,11 +1,11 @@
 ---
-title: "David Villalobos Hornback (Website WIP)"
+title: "David Villalobos Hornback"
 image: "files/Headshot-crop.png"
+page-layout: full
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 7cm
-  
+  image-width: 10cm
   links:
     - icon: envelope
       href: mailto:dvillaloboshornback@ucsd.edu
@@ -13,28 +13,77 @@ about:
       href: https://www.linkedin.com/in/david-villalobos-hornback
     - icon: git
       href: https://github.com/dvillaloboshornback
-    
 ---
 
-# Big Heading
+## Education
 
-## Smaller Heading
+**B.S in Business Economics**
 
-### Even Smaller Heading
+**Minor in Cognitive Science, *w/ a focus on Data Analysis***
 
-Regular Text. If you want **bold** or *italics*.
+------------------------------------------------------------------------
 
-| Col1 | Col2 |
-|------|------|
-|      |      |
-|      |      |
+## Biography
 
-: ***2x2 Table***
+::: {style="text-indent: 2em"}
+I'm a senior at UC San Diego graduating in June 2026 with a B.S. in Business Economics and a Minor in Cognitive Science with a focus on Data Analysis. Getting here wasn't linear either. I transferred, worked through COVID, and drove for Amazon after housing insecurity forced me to leave UC Santa Cruz. Those experiences shaped my resilience and passion for supporting others in higher education, which is why I currently work as a Retention Coordinator at UCSD helping students stay in school.
 
-This is a Quarto website.
+Academically, I've always been fascinated by the intersection of data, human behavior, and decision-making. Why and how people make the decisions they do. What started as a curiosity about Cognitive Science evolved into a love for data analysis. When I wrote my first working loop in Python, I was hooked; there's something about writing code and getting it to work that hits like solving a puzzle. Since then I've applied that curiosity to real problems. My senior project investigated potential insider trading among U.S. politicians by analyzing their stock trades, committee memberships, and sector ROI. My long-term interest is in using data to understand how people and teams work, measuring productivity, diversity, and performance to help organizations build better, more effective teams.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+------------------------------------------------------------------------
 
-```{r}
-1 + 1
-```
+## Courses
+
+Here is a table of some of my favorite and most relevant courses to date:
+
+## Data & Analytics
+
+| Course Title | Description |
+|-------------------------------------|-----------------------------------|
+| Customer Analytics – MGT100 | Applied R to perform customer segmentation, demand estimation, conjoint analysis, and pricing optimization using real business datasets to support data-driven marketing decisions. |
+| Detecting Discrimination in Data – ECON185 | Used econometric methods including regression decomposition, difference-in-differences, and instrumental variables to identify and quantify racial and economic disparities in labor markets, policing, and the criminal legal system. |
+| Data Science in Practice – COGS108 | Completed a full end-to-end data science project in Python covering data wrangling, EDA, machine learning, NLP, and statistical inference, with emphasis on real-world application and reproducibility. |
+| Principles of Data Science – DSC10 | Applied Python programming to explore datasets, draw statistical inferences, and build predictive models using real-world data across multiple disciplines. |
+| Data Analytics for Social Sciences – ECON5 | Analyzed real-world social science questions using Excel, Stata, and R, covering data wrangling, regression analysis, and data visualization applied to topics like intergenerational mobility and labor market discrimination. |
+| Quantitative Methods in Business – MGT3 | Applied statistical techniques including probability, simulation, Bayesian statistics, forecasting, and optimization to business decision-making problems using R. |
+| Experiments in Firms – MGT160 | Designed and ran randomized controlled experiments to test business and policy interventions, applying behavioral economics insights to real organizational questions. |
+| Data Visualization – STAT80B | Developed effective data visualizations and infographics using Tableau and Inkscape, applying principles of visual design to communicate complex data clearly and accurately. |
+| Beginning Programming in Python – CSE20 | Built foundational Python programming skills including data structures, functions, classes, and file handling through weekly coding assignments. |
+| Econometrics A – ECON120A | Built foundational probability and statistical theory for economics, covering sampling distributions, statistical inference, and data analysis using spreadsheets. |
+| Econometrics B – ECON120B | Applied core econometric methods including linear regression, hypothesis testing, confidence intervals, and causal inference techniques to real economic data. |
+
+: {tbl-colwidths="\[20,80\]"}
+
+## Business & Finance
+
+| Course Title | Description |
+|-------------------------------------|-----------------------------------|
+| Operating Successful Business – MGT71 | Applied operations management frameworks including process analysis, capacity planning, inventory theory, quality management, and lean operations to real-world business strategy. |
+| Business Finance – MGT180 | Applied core financial concepts including cash flow valuation, risk analysis, capital budgeting, and stock and bond pricing to real-world corporate and investment decisions using Excel. |
+| Product Marketing & Management – MGT103 | Developed skills in market segmentation, customer targeting, product positioning, pricing strategy, and promotion to drive data-informed marketing decisions across the product lifecycle. |
+| Microeconomics A – ECON100A | Applied calculus-based optimization to model consumer behavior, including utility maximization, demand functions, labor supply, and decision-making under risk and uncertainty. |
+| Microeconomics B – ECON100B | Extended microeconomic theory to analyze market imperfections including monopoly pricing, game theory, oligopoly, externalities, public goods, and asymmetric information. |
+| Short Run Macroeconomics – ECON110B | Analyzed the causes of economic recessions, inflation, and business cycles, and evaluated monetary and fiscal policy responses. |
+
+: {tbl-colwidths="\[20,80\]"}
+
+## Leadership & Strategy
+
+| Course Title | Description |
+|-------------------------------------|-----------------------------------|
+| Managing Diverse Teams – MGT18 | Examined how diversity, social identity, unconscious bias, and cultural intelligence shape team dynamics, and developed practical leadership skills for building inclusive and high-performing workplace teams. |
+| Negotiations – MGT162R | Developed analytical and practical negotiation skills through weekly live negotiation exercises, applying frameworks for value claiming, value creation, and multi-party coalition dynamics. |
+| Business and Organizational Leadership – MGT164 | Examined key leadership frameworks including power, influence, organizational culture, emotional intelligence, and change management, with weekly written reflections connecting theory to personal leadership development. |
+
+: {tbl-colwidths="\[20,80\]"}
+
+## Quantitative
+
+| Course Title | Description |
+|-------------------------------------|-----------------------------------|
+| Calculus III – MATH10C | Extended calculus to multivariable settings, covering vector geometry, partial derivatives, velocity and acceleration vectors, and multivariable optimization problems. |
+| Calculus I – MATH11A | Built foundational differential calculus skills including limits, derivatives, and their applications, serving as a prerequisite for upper-division quantitative coursework. |
+| Calculus II – MATH11B | Extended integral calculus covering techniques of integration and their applications to real-world problems. |
+
+: {tbl-colwidths="\[20,80\]"}

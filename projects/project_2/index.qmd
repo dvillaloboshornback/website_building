@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Spotify Data Personal Project (WIP)"
 format: html
 ---
 

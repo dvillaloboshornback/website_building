@@ -12,12 +12,12 @@ website:
         text: Resume
       - href: projects.qmd  # <-- add this
         text: My Projects   # <-- add this
-      - href: newtab.qmd
-        text: newtabtitle
+      - href: Hobbies &amp; Interests.qmd
+        text: Hobbies & Interests
 format:
   html:
     theme:
-      - cosmo
+      - superhero
       - brand
     css: styles.css
     toc: true

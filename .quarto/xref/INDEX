@@ -19,5 +19,14 @@
   },
   "newtab.qmd": {
     "newtab.html": "668b92ba"
+  },
+  "Hobbies & Interests.qmd": {
+    "Hobbies & Interests.html": "e667167a"
+  },
+  "projects/project_1/index.knit.md": {
+    "index.knit.html": "0e6d12cc"
+  },
+  "projects/project_1/index.ipynb": {
+    "index.html": "39b61b8a"
   }
 }
