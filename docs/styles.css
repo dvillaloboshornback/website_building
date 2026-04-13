@@ -1,13 +1,8 @@
 /* css styles */
 
-img.about-image {
+img.about-image.rectangle {
   border: none !important;
   box-shadow: none !important;
   outline: none !important;
-}
-
-.about-entity img {
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
+  background: none !important;
 }
