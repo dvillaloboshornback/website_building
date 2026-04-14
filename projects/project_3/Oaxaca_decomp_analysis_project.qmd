@@ -1,0 +1,7 @@
+---
+title: "Wage Disparities & Discrimination (WIP)"
+subtitle: 'ECON 185 – A Oaxaca Decomposition & Final Project'
+author: David Villalobos Hornback
+format: html
+---
+

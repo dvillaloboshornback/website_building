@@ -28,5 +28,17 @@
   },
   "projects/project_1/index.ipynb": {
     "index.html": "39b61b8a"
+  },
+  "projects/project_1/Stock_trading_project.ipynb": {
+    "Stock_trading_project.html": "157151e6"
+  },
+  "projects/project_2/Spotify_project.qmd": {
+    "Spotify_project.html": "fb47a89a"
+  },
+  "projects/project_3/test_project.qmd": {
+    "test_project.html": "2a680072"
+  },
+  "projects/project_3/Oaxaca_decomp_analysis_project.qmd": {
+    "Oaxaca_decomp_analysis_project.html": "f7e6b4f0"
   }
 }
